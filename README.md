@@ -1,4 +1,4 @@
-### Olá! Eu sou o Lucas Sá, desenvolvedor RPA 👋
+### Olá! Eu sou o Lucas, desenvolvedor RPA 👋
 
 
 </br>
