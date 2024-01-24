@@ -9,7 +9,11 @@
 [![Linkedlin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-s%C3%A1-4063261bb/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://www.linkedin.com/in/lucas-s%C3%A1-4063261bb/)
 
-![Lucas GitHub stats](https://github-readme-stats.vercel.app/api?username=SaLucas-py&show_icons=true&theme=dracula)
+<div align="center">
+  <a href="https://github.com/SaLucas-py">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SaLucas-py&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+</div>
+
 
 ## Tecnologias que eu uso no meu dia
 
