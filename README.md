@@ -11,7 +11,7 @@
 
 
   <a href="https://github.com/SaLucas-py">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SaLucas-epy&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SaLucas-py&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
 
 
 ## Tecnologias que eu uso no meu dia
