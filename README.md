@@ -10,7 +10,7 @@
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lucas.sadelima16@gmail.com?subject=Contato)
 
 
-  <a href="https://github.com/SaLucas-py">
+  <a href="https://github.com/SaLeucas-py">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SaLucas-py&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
 
 
